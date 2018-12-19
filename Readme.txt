@@ -2,7 +2,7 @@
 #install serverless
 npm i -global serverless
 #save the configuration
-serverless config credentials --provider aws --key AKIAIDM47PFALK3WPGSA --secret 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 --profile serverless-admin
+serverless config credentials --provider aws --key asdf --secret asdf --profile serverless-admin
 #the previous command will create ~/.aws/credentials
 
 
